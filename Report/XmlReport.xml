@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="33.146699">
+    <testcase classname="User Login The Page" name="HomePage" time="33.146699">
+        <system-out><![CDATA[Given user Launch The Url Of Application....................................passed
+When user Enter The Email Id or Phone Number Into Such Field................passed
+And user Enter The Password Into Password Field.............................passed
+And user Click The Login button.............................................passed
+And user Click The Create Account button....................................passed
+And user Enter Their First Name In Such Field...............................passed
+And user Enter Their Surname Name In Such Field.............................passed
+And user Enter Their Mobile Number or Email Id In Such Field................passed
+And user Enter Their New Password In Such Field.............................passed
+And user Select Their DOB  In Such Field....................................passed
+And user Click Their Gender In Such Field...................................passed
+And user Click The SignUp button In Such Field..............................passed
+]]></system-out>
+    </testcase>
+</testsuite>

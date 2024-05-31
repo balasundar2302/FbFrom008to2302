@@ -1,0 +1,167 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "HomePage",
+        "description": "",
+        "id": "user-login-the-page;homepage",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14324954400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user Launch The Url Of Application",
+            "match": {
+              "location": "FbStepdefinition.user_Launch_The_Url_Of_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 194190400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user Enter The Email Id or Phone Number Into Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Enter_The_Email_Id_or_Phone_Number_Into_Such_Field()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 164245000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user Enter The Password Into Password Field",
+            "match": {
+              "location": "FbStepdefinition.user_Enter_The_Password_Into_Password_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9403343000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user Click The Login button",
+            "match": {
+              "location": "FbStepdefinition.user_Click_The_Login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 207107900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user Click The Create Account button",
+            "match": {
+              "location": "FbStepdefinition.user_Click_The_Create_Account_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4135499900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user Enter Their First Name In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Enter_Their_First_Name_In_Such_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 544593500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user Enter Their Surname Name In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Enter_Their_Surname_Name_In_Such_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 114779000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user Enter Their Mobile Number or Email Id In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Enter_Their_Mobile_Number_or_Email_Id_In_Such_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 131148500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Enter Their New Password In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Enter_Their_New_Password_In_Such_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 553322600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Select Their DOB  In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Select_Their_DOB_In_Such_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 78808000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Click Their Gender In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Click_Their_Gender_In_Such_Field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3288509400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user Click The SignUp button In Such Field",
+            "match": {
+              "location": "FbStepdefinition.user_Click_The_SignUp_button_In_Such_Field()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "User Login The Page",
+    "description": "",
+    "id": "user-login-the-page",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/feature/Facebook.feature",
+    "tags": []
+  }
+]
